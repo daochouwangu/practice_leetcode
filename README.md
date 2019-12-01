@@ -30,6 +30,7 @@
 |189|[rotate-array](https://leetcode.com/problems/rotate-array/)|[js](./rotate-array.js)|true|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)|[js](./reverse-linked-list.js)|true|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)|[js](./palindrome-linked-list.js)|true|
+|687|[longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)|[js](./longest-univalue-path.js)|true|
 |876|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)|[js](./middle-of-the-linked-list.js)|true|
 |892|[surface-area-of-3d-shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[js](./surface-area-of-3d-shapes.js)|true|
 |1266|[minimum-time-visiting-all-points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[js](./minimum-time-visiting-all-points.js)|true|
