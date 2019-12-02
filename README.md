@@ -27,6 +27,7 @@
 |88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/)|[js](./merge-sorted-array.js)|true|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)|[js](./linked-list-cycle.js)|true|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/)|[js](./linked-list-cycle-ii.js)|true|
+|179|[largest-number](https://leetcode-cn.com/problems/largest-number)|[js](./largest-number.js)|true|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array/)|[js](./rotate-array.js)|true|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)|[js](./reverse-linked-list.js)|true|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)|[js](./palindrome-linked-list.js)|true|
