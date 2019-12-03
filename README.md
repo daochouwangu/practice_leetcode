@@ -4,8 +4,6 @@
 
 将所有刷过的算法题列出来，isBest表示是否是最优解（时空复杂度所有解法中综合最低，且排名前80%）
 
-最近在参加算法打卡，学号3313
-
 | # | Title | Solution | isBest |
 |---| ----- | -------- | ---------- |
 |1|[two-sum](https://leetcode.com/problems/two-sum/)|[js](./two-sum.js)|true|
