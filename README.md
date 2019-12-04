@@ -14,6 +14,8 @@
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/)|[js](./zigzag-conversion.js)|true|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer/)|[js](./reverse-integer.js)|true|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)|[js](./string-to-integer-atoi.js)|true|
+|9|[palindrome-number](https://leetcode-cn.com/problems/palindrome-number)|[js](./palindrome-number.js)|true|
+|13|[roman-to-intege](https://leetcode-cn.com/problems/roman-to-integer)|[js](./roman-to-intege.js)|true|
 |15|[3sum](https://leetcode.com/problems/3sum/)|[js](./3sum.js)|true|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)|[js](./valid-parentheses.js)|true|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[js](./merge-two-sorted-lists.js)|true|
