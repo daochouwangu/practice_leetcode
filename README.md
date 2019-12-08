@@ -1,6 +1,7 @@
-# practice_leetcode
- 刷leetcode的答案，大部分是js
+Leetcode
 ========
+
+ 刷leetcode的答案，大部分是js
 
 将所有刷过的算法题列出来，isBest表示是否是最优解（时空复杂度所有解法中综合最低，且排名前80%）
 
@@ -34,6 +35,7 @@
 |189|[rotate-array](https://leetcode.com/problems/rotate-array/)|[js](./rotate-array.js)|true|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)|[js](./reverse-linked-list.js)|true|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)|[js](./palindrome-linked-list.js)|true|
+|451|[sort-characters-by-frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency)|[js](./sort-characters-by-frequency.js)|true|
 |641|[design-circular-deque](https://leetcode.com/problems/design-circular-deque)|[js](./design-circular-deque.js)|true|
 |687|[longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)|[js](./longest-univalue-path.js)|true|
 |876|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)|[js](./middle-of-the-linked-list.js)|true|
