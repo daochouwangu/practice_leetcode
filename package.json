@@ -1,0 +1,26 @@
+{
+  "name": "practice_leetcode",
+  "version": "1.0.0",
+  "description": "My leetcode answer with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daochouwangu/practice_leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "algorithm"
+  ],
+  "author": "lyb <daochouwangu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daochouwangu/practice_leetcode/issues"
+  },
+  "homepage": "https://github.com/daochouwangu/practice_leetcode#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}

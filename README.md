@@ -27,8 +27,10 @@ Leetcode
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[js](./reverse-nodes-in-k-group.js)|true|
 |26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[js](./remove-duplicates-from-sorted-array.js)|true|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr/)|[js](./implement-strstr.js)|true|
+|46|[permutations](https://leetcode-cn.com/problems/permutations)|[js](./permutations.js)|true|
 |83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[js](./remove-duplicates-from-sorted-list.js)|true|
 |88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/)|[js](./merge-sorted-array.js)|true|
+|93|[restore-ip-addresses](https://leetcode-cn.com/problems/restore-ip-addresses)|[js](./restore-ip-addresses.js)|true|
 |102|[binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)|[js](./binary-tree-level-order-traversal.js)|true|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)|[js](./linked-list-cycle.js)|true|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/)|[js](./linked-list-cycle-ii.js)|true|
