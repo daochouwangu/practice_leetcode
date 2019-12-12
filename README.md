@@ -28,6 +28,7 @@ Leetcode
 |26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[js](./remove-duplicates-from-sorted-array.js)|true|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr/)|[js](./implement-strstr.js)|true|
 |46|[permutations](https://leetcode-cn.com/problems/permutations)|[js](./permutations.js)|true|
+|53|[maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[js](./maximum-subarray.js)|true|
 |83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[js](./remove-duplicates-from-sorted-list.js)|true|
 |88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/)|[js](./merge-sorted-array.js)|true|
 |93|[restore-ip-addresses](https://leetcode-cn.com/problems/restore-ip-addresses)|[js](./restore-ip-addresses.js)|true|
@@ -44,6 +45,7 @@ Leetcode
 |687|[longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)|[js](./longest-univalue-path.js)|true|
 |876|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)|[js](./middle-of-the-linked-list.js)|true|
 |892|[surface-area-of-3d-shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[js](./surface-area-of-3d-shapes.js)|true|
+|1038|[binary-search-tree-to-greater-sum-tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree)|[js](./binary-search-tree-to-greater-sum-tree.js)|true|
 |1114|[print-in-order](https://leetcode-cn.com/problems/print-in-order)|[java](./print-in-order.java)|false|
 |1266|[minimum-time-visiting-all-points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[js](./minimum-time-visiting-all-points.js)|true|
 |1267|[count-servers-that-communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[js](./count-servers-that-communicate.js)|true|
