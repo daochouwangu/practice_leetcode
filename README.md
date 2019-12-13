@@ -40,7 +40,9 @@ Leetcode
 |189|[rotate-array](https://leetcode.com/problems/rotate-array/)|[js](./rotate-array.js)|true|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)|[js](./reverse-linked-list.js)|true|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)|[js](./palindrome-linked-list.js)|true|
+|378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix)|[js](./kth-smallest-element-in-a-sorted-matrix.js)|false|
 |451|[sort-characters-by-frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency)|[js](./sort-characters-by-frequency.js)|true|
+|486|[predict-the-winner](https://leetcode-cn.com/problems/predict-the-winner)|[js](./predict-the-winner.js)|true|
 |641|[design-circular-deque](https://leetcode.com/problems/design-circular-deque)|[js](./design-circular-deque.js)|true|
 |687|[longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)|[js](./longest-univalue-path.js)|true|
 |876|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)|[js](./middle-of-the-linked-list.js)|true|
